@@ -1,0 +1,24 @@
+.titolo{
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    color:white;
+    background-color: darkcyan;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+    
+    
+ /* .booleaner{ */     
+    
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 0em;
+}
+.p2 {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 0em;
+}
+.immagini{
+    
+}
